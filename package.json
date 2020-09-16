@@ -1,0 +1,25 @@
+{
+  "name": "sportRadars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cain310/sportRadars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cain310/sportRadars/issues"
+  },
+  "homepage": "https://github.com/Cain310/sportRadars#readme",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.9.0",
+    "axios": "^0.20.0",
+    "pnpm": "^5.5.13"
+  }
+}
