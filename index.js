@@ -28,6 +28,10 @@ const client = new Client({
 //     ]
 //   }
 // }
+// PUT gamestats/_settings
+// {
+//   "index.mapping.total_fields.limit": 3000
+// }
 
 // The request below gets all Game Ids. replace year in request string to specify year you want. All game Ids from 2014  - 2019 are hardcoded in gameIds.js file.
 
